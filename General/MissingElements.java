@@ -9,6 +9,7 @@ public class MissingElements {
 
         for (int i = 0; i < arr.length - 1; i++) {
             int num = arr[i];
+            // TODO
             while (num + 1 != arr[i + 1]) {
                 System.out.print(num + 1 + " ");
                 num++;

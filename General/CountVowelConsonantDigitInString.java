@@ -6,6 +6,7 @@ public class CountVowelConsonantDigitInString {
         int consonant = 0;
         int num = 0;
 
+        // TODO
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             if (Character.isLetter(c)) {

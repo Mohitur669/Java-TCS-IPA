@@ -1,9 +1,10 @@
-public class CompressString {
+public class StringCompress {
     public static void main(String[] args) {
         String s = "aabbbcc";
         System.out.println(charRepeat(s));
     }
 
+    // TODO
     public static String charRepeat(String s) {
         String t = "";
         int count = 1;

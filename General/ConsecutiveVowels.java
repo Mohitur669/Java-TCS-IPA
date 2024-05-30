@@ -7,6 +7,7 @@ Output: 2
 Explanation: There are two words in the sentence that contain at least two consecutive vowels - "eating" and "meatballs".
  */
 
+// TODO
 import java.util.Scanner;
 
 public class ConsecutiveVowels {
