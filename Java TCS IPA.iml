@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Test 03" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10 Employee Details" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/11 Player Details" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12 Medicine Details" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
