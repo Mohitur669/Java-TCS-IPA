@@ -22,6 +22,10 @@
       <sourceFolder url="file://$MODULE_DIR$/10 Employee Details" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/11 Player Details" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/12 Medicine Details" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13 Autonomous Car" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14 Movies" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15 Phone Bank" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16 Naval Vessel" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
