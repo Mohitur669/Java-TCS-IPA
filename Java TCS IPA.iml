@@ -26,6 +26,12 @@
       <sourceFolder url="file://$MODULE_DIR$/14 Movies" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/15 Phone Bank" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/16 Naval Vessel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17 Student Marks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18 Antenna Details" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19 Flower Bank" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20 Car Engine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21 Fruit Market" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22 Associate Details" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
