@@ -35,6 +35,16 @@
       <sourceFolder url="file://$MODULE_DIR$/23 Institutions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/24 Inventory" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/25 Cinemas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26 Player" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/27 Sim Details" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/28 Team Player" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/29 Interest Rate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/30 Documents" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/31 Music Playlist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/32 Travel Agency" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/33 Newspapers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/34 Cricket Player" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/35 Remove Car" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
