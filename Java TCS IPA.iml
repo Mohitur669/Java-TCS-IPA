@@ -48,6 +48,8 @@
       <sourceFolder url="file://$MODULE_DIR$/36 Mobile Details" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/37 Songs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/38 Headsets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/39 Vegetable Shop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/40 Car Details" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
