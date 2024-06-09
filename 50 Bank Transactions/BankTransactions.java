@@ -1,5 +1,5 @@
 import java.text.SimpleDateFormat;
-import java.util.Date;
+import java.util.*;
 
 // Bank class
 class Bank {
@@ -100,18 +100,48 @@ class BankUtils {
 // Main class
 public class BankTransactions {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // Input details for Account 1
+        System.out.println("Enter details for Account 1:");
+        System.out.print("Account Number: ");
+        String accountNumber1 = scanner.nextLine();
+        System.out.print("Account Holder Name: ");
+        String accountHolderName1 = scanner.nextLine();
+        System.out.print("Balance: ");
+        double balance1 = scanner.nextDouble();
+        scanner.nextLine(); // Consume newline
+
+        // Input details for Account 2
+        System.out.println("Enter details for Account 2:");
+        System.out.print("Account Number: ");
+        String accountNumber2 = scanner.nextLine();
+        System.out.print("Account Holder Name: ");
+        String accountHolderName2 = scanner.nextLine();
+        System.out.print("Balance: ");
+        double balance2 = scanner.nextDouble();
+        scanner.nextLine(); // Consume newline
+
         // Create two Bank objects
-        Bank account1 = new Bank("12345", "John", 5000.0);
-        Bank account2 = new Bank("67890", "Jane", 10000.0);
+        Bank account1 = new Bank(accountNumber1, accountHolderName1, balance1);
+        Bank account2 = new Bank(accountNumber2, accountHolderName2, balance2);
+
+        // Input transfer details
+        System.out.println("Enter transfer details:");
+        System.out.print("Amount: ");
+        double amount = scanner.nextDouble();
+        scanner.nextLine(); // Consume newline
+        System.out.print("Transaction Code: ");
+        String transactionCode = scanner.nextLine();
 
         // Print balances before transfer
-        System.out.println("Before Transfer:");
+        System.out.println("\nBefore Transfer:");
         System.out.println("Account 1: " + account1.getAccountHolderName() + " - " + account1.getAccountNumber() + " - " + account1.getBalance());
         System.out.println("Account 2: " + account2.getAccountHolderName() + " - " + account2.getAccountNumber() + " - " + account2.getBalance());
 
         // Transfer funds
         try {
-            Transaction transaction = BankUtils.transferFunds(account1, account2, 2000.0, "T0001");
+            Transaction transaction = BankUtils.transferFunds(account1, account2, amount, transactionCode);
 
             // Print balances after transfer
             System.out.println("\nAfter Transfer:");
