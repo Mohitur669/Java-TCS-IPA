@@ -50,6 +50,20 @@
       <sourceFolder url="file://$MODULE_DIR$/38 Headsets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/39 Vegetable Shop" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/40 Car Details" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/41 Bank Accounts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/42 University - Inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/43 College Student" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/44 Rectangles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/45 Employees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/46 Player Match" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/48 Validate Score" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/49 Sim Bill" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/50 Bank Transactions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/51 Beaches" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/52 EmployeeSalary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/53 Online Course" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/54 Course Certificate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/55 Resort Details" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
